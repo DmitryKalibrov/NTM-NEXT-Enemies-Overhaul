@@ -1,0 +1,7 @@
+.gradle/
+build/
+run/
+runs/
+*.blend1
+__pycache__/
+drafts/

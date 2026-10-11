@@ -1,0 +1,12 @@
+{
+  "itemGroup.ntm_enemies_overhaul": "NTM: Новые враги",
+  "entity.ntm_enemies_overhaul.glyphid_glybnik": "Глыбник",
+  "entity.ntm_enemies_overhaul.glybnik_leg": "Лапа глыбника",
+  "item.ntm_enemies_overhaul.glyphid_glybnik_spawn_egg": "Яйцо призыва глыбника",
+  "entity.ntm_enemies_overhaul.glyphid_needler": "Иглострел",
+  "entity.ntm_enemies_overhaul.needler_part": "Обломок иглострела",
+  "entity.ntm_enemies_overhaul.needle": "Игла",
+  "item.ntm_enemies_overhaul.glyphid_needler_spawn_egg": "Яйцо призыва иглострела",
+  "entity.ntm_enemies_overhaul.glyphid_tatterwing": "Лоскутник",
+  "item.ntm_enemies_overhaul.glyphid_tatterwing_spawn_egg": "Яйцо призыва лоскутника"
+}

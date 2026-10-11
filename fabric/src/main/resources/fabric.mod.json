@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "ntm_enemies_overhaul",
+  "version": "${version}",
+  "name": "NTM Enemies Overhaul",
+  "description": "New glyphid castes and hive evolution for NTM-NEXT.",
+  "license": "LGPL-3.0-only",
+  "environment": "*",
+  "entrypoints": {
+    "hbm:addon": ["com.hbm.enemies.fabric.FabricAddon"],
+    "main": ["com.hbm.enemies.fabric.FabricEntry"],
+    "client": ["com.hbm.enemies.fabric.FabricClientEntry"]
+  },
+  "mixins": ["ntm_enemies_overhaul.mixins.json"],
+  "depends": {
+    "fabricloader": ">=0.19.3",
+    "minecraft": "~26.2",
+    "fabric-api": "*",
+    "hbm": ">=1.0.2"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "itemGroup.ntm_enemies_overhaul": "NTM Enemies Overhaul",
+  "entity.ntm_enemies_overhaul.glyphid_glybnik": "Glybnik",
+  "entity.ntm_enemies_overhaul.glybnik_leg": "Glybnik Leg",
+  "item.ntm_enemies_overhaul.glyphid_glybnik_spawn_egg": "Glybnik Spawn Egg",
+  "entity.ntm_enemies_overhaul.glyphid_needler": "Needler",
+  "entity.ntm_enemies_overhaul.needler_part": "Needler Fragment",
+  "entity.ntm_enemies_overhaul.needle": "Needle",
+  "item.ntm_enemies_overhaul.glyphid_needler_spawn_egg": "Needler Spawn Egg",
+  "entity.ntm_enemies_overhaul.glyphid_tatterwing": "Tatterwing",
+  "item.ntm_enemies_overhaul.glyphid_tatterwing_spawn_egg": "Tatterwing Spawn Egg"
+}
